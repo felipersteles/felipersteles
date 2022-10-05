@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   ##
   <a href="https://www.linkedin.com/in/felipsteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-- 🔭 Trabalho com front-end
-- 🌱 Estou aprendendo Nodejs no backend
+- 🔭 Estudando Ciência da Computação na UFMA
+- 🌱 Estou aprimorando técnicas de elicitação de requisitos.
 - 💬 Gosto de conversar sobre filosofia e matamática
 - 📫 Me mande um email: felipersteles@gmail.com
 - 😄 Pronouns: ele/dele
