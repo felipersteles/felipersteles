@@ -1,6 +1,6 @@
 ## OPA! Me chame de Teles 👋
 
-Link do site do meu site: https://felipersteles.herokuapp.com/
+Acesse meu portfólio ;) https://felipersteles.herokuapp.com/
 ##
 
 <!--
