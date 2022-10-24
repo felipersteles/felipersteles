@@ -3,12 +3,12 @@
 <div align="center">
  <div>
   <i>
- Se uma rosa de amor tu guardaste,
- Bem no teu coração
- Se a um Deus supremo e justo endereçaste
- Tua humilde oração;
- Se com a taça erquida
- Cantaste, um dia, o teu louvor à vida,
+ Se uma rosa de amor tu guardaste,<br/>
+ Bem no teu coração<br/>
+ Se a um Deus supremo e justo endereçaste<br/>
+ Tua humilde oração;<br/>
+ Se com a taça erquida<br/>
+ Cantaste, um dia, o teu louvor à vida,<br/>
  Tu não viveste em vão...
   </i>
  </div>
