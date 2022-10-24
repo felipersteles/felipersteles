@@ -12,7 +12,7 @@
   </i>
 </div>
 <div align="end">
-- Omar Khayyam&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+- Omar Khayyam&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
  </div>
 
 ##
