@@ -1,7 +1,7 @@
 ## OPA! Me chame de Teles 👋
 
 <div align="center">
- <div align="start">
+ <div text-align="start">
  <i>Se uma rosa de amor tu guardaste,</i><br/>
  <i>&emsp;Bem no teu coração</i><br/>
  <i>Se a um Deus supremo e justo endereçaste</i><br/>
