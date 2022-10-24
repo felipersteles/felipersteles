@@ -4,7 +4,7 @@
  <div>
   <i>
  Se uma rosa de amor tu guardaste,<br/>
- Bem no teu coração<br/>
+ Bem no teu coração;<br/>
  Se a um Deus supremo e justo endereçaste<br/>
  Tua humilde oração;<br/>
  Se com a taça erquida<br/>
