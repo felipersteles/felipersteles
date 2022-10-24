@@ -2,6 +2,7 @@
 
 <div align="center">
  <div>
+  <i>
  Se uma rosa de amor tu guardaste,
  Bem no teu coração
  Se a um Deus supremo e justo endereçaste
