@@ -1,6 +1,7 @@
 ## OPA! Me chame de Teles 👋
 
 <div align="center">
+ <div align="start">
  <i>Se uma rosa de amor tu guardaste,</i><br/>
  <i>&emsp;Bem no teu coração</i><br/>
  <i>Se a um Deus supremo e justo endereçaste</i><br/>
@@ -8,6 +9,7 @@
  <i>Se com a taça erquida</i><br/>
  <i>&emsp;Cantaste, um dia, o teu louvor à vida,</i><br/>
  <i>&emsp;Tu não viveste em vão...</i>
+ </div>
 </div>
 
 ##
