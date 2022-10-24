@@ -11,8 +11,8 @@
  Tu não viveste em vão...
   </i>
 </div>
-<div align="center">
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Omar Khayyam
+<div align="end">
+- Omar Khayyam&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
  </div>
 
 ##
