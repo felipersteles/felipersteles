@@ -1,7 +1,6 @@
 ## OPA! Me chame de Teles 👋
 
 <div align="center">
- <div>
   <i>
  Se uma rosa de amor tu guardaste,<br/>
  Bem no teu coração;<br/>
@@ -11,9 +10,10 @@
  Cantaste, um dia, o teu louvor à vida,<br/>
  Tu não viveste em vão...
   </i>
- </div>
 </div>
+<div align="end">
 - Omar Khayyam
+ </div>
 
 ##
 
