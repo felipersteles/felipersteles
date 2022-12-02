@@ -1,4 +1,4 @@
-## Felipe Teles
+## Opa! Me chamo Felipe Teles
 
 <div align="center">
   <i>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - 🔭 Estudando Ciência da Computação na UFMA.
 - 🌱 Programador estágiario ;)
 - 💬 Gosto de conversar sobre filosofia e matemática.
-- 📫 Me mande um email: felipersteles@gmail.com
+- 📫 Saiba mais sobre mim: https://felipeteles.netlify.app/
 
 
 ##
