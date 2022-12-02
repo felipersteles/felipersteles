@@ -1,4 +1,4 @@
-## Opa! Me chamo Felipe Teles
+## Hi there! My name is Felipe and I sorry for the portuguese rs
 
 <div align="center">
   <i>
