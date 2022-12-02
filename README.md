@@ -1,4 +1,4 @@
-## Hi there! My name is Felipe and I sorry for the portuguese rs
+## Opa! Bem vindo, sou Felipe Teles e aqui estão algumas das minhas ideias.
 
 <div align="center">
   <i>
@@ -51,3 +51,8 @@ Here are some ideas to get you started:
 
 
 ##
+
+<div align="start">
+  <i>Siga seus sonhos, com amor
+  </i>
+</div>
