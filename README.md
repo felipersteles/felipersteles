@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 ##
 
 <div align="end">
-  <i>Siga seus sonhos, com amor&emsp;&emsp;&emsp; <h1>Felipe Teles</h1>
+  <i>Siga seus sonhos, com amor&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <h1>Felipe Teles</h1>
   </i>
 </div>
