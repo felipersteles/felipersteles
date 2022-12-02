@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ##
 
-<div align="start">
+<div align="end">
   <i>Siga seus sonhos, com amor <h1>&emsp;&emsp;&emsp;Felipe Teles</h1>
   </i>
 </div>
