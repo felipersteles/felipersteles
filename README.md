@@ -43,9 +43,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/felipsteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 - 🔭 Estudando Ciência da Computação na UFMA.
-- 🌱 Programador estágiario ;)
+- 🌱 Programador estágiario na Tarken ;)
 - 💬 Gosto de conversar sobre filosofia e matemática.
-- 📫 Saiba mais sobre mim: https://felipeteles.netlify.app/
 
 
 ##
