@@ -42,14 +42,15 @@ Here are some ideas to get you started:
   ##
   <a href="https://www.linkedin.com/in/felipsteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-- 🔭 Estudando Ciência da Computação na UFMA.
-- 🌱 Programador estágiario na Tarken ;)
-- 💬 Gosto de conversar sobre filosofia e matemática.
+- I am Felipe Teles and right now I am student of Computer Science at Federal University of Maranhão.
+- Working as full-stack developer at Tarken, but at this moment I am doing more front-end using React with Typescript template.
+- Studing Java and C# to improve my logical ;)
+
 
 
 ##
 
 <div align="end">
-  <i>Siga seus sonhos, com amor&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <h1>Felipe Teles</h1>
+  <i>Follow your dreams, with love by&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <h1>Felipe Teles</h1>
   </i>
 </div>
