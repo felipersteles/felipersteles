@@ -1,4 +1,4 @@
-## Opa! Bem vindo, prazer eu sou Felipe Teles.
+## Seja Bem vindo, sou Felipe Teles.
 
 <div align="center">
   <i>
