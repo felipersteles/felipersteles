@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 - I am Felipe Teles and right now I am student of Computer Science at Federal University of Maranhão.
 - Sorry for portuguese but I am from Brazil and I like to much this language s2
-- Working as full-stack developer at Tarken, but at this moment I am doing more front-end using React with Typescript template.
-- Studing Java and C# to improve my logical ;)
+- I am trying to make a robot pls someone help me
+- Studing Java to improve my logical ;)
 
 
 
