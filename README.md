@@ -1,20 +1,5 @@
 ## Seja Bem vindo, sou Felipe Teles.
 
-<div align="center">
-  <i>
- Se uma rosa de amor tu guardaste,<br/>
- Bem no teu coração;<br/>
- Se a um Deus supremo e justo endereçaste<br/>
- Tua humilde oração;<br/>
- Se com a taça erquida<br/>
- Cantaste, um dia, o teu louvor à vida,<br/>
- Tu não viveste em vão...
-  </i>
-</div>
-<div align="end">
-- Omar Khayyam&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
- </div>
-
 ##
 
 <!--
@@ -50,6 +35,22 @@ Here are some ideas to get you started:
 
 
 ##
+
+<div align="center">
+  <i>
+ Se uma rosa de amor tu guardaste,<br/>
+ Bem no teu coração;<br/>
+ Se a um Deus supremo e justo endereçaste<br/>
+ Tua humilde oração;<br/>
+ Se com a taça erquida<br/>
+ Cantaste, um dia, o teu louvor à vida,<br/>
+ Tu não viveste em vão...
+  </i>
+</div>
+<div align="end">
+- Omar Khayyam&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+ </div>
+
 
 <div align="end">
   <i>Follow your dreams, with love by&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <h1>Felipe Teles</h1>
