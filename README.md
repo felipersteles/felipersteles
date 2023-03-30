@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - I am Felipe Teles and right now I am student of Computer Science at Federal University of Maranhão.
 - Trying to be better as I get older
 - I am trying to make a robot pls someone help me
-- Studing Java to improve my logical ;)
+- Doing some Java and JavaScript applications
 
 
 
