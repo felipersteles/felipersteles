@@ -1,7 +1,5 @@
 ## Seja Bem vindo, sou Felipe Teles.
 
-##
-
 <!--
 **felipersteles/felipersteles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,8 +49,4 @@ Here are some ideas to get you started:
 - Omar Khayyam&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
  </div>
 
-
-<div align="end">
-  <i>Follow your dreams, with love by&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <h1>Felipe Teles</h1>
-  </i>
-</div>
+##
