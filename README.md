@@ -1,4 +1,4 @@
-## Seja Bem vindo, sou Felipe Teles.
+## Hello, my name is Felipe Teles.
 
 <!--
 **felipersteles/felipersteles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
