@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/felipsteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 - I am Felipe Teles and right now I am student of Computer Science at Federal University of Maranhão.
-- Sorry for portuguese but I am from Brazil and I like to much this language s2
+- Trying to be better as I get older
 - I am trying to make a robot pls someone help me
 - Studing Java to improve my logical ;)
 
