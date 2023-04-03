@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/felipsteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 - I am Felipe Teles and right now I am student of Computer Science at Federal University of Maranhão.
-- Trying to be better as I get older
+- Full-satck developer
 - I am trying to make a robot pls someone help me
 - Doing some Java and JavaScript applications
 
