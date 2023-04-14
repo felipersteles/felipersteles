@@ -50,4 +50,5 @@ Here are some ideas to get you started:
 - Omar Khayyam&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
  </div>
 
-##
+---
+[![](https://visitcount.itsvg.in/api?id=luizAlbuquerque0&icon=0&color=0)](https://visitcount.itsvg.in)
