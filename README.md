@@ -26,10 +26,12 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/felipsteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## 💫 About Me:
-- I am Felipe Teles and right now I am student of Computer Science at Federal University of Maranhão.
-- Full-satck developer
-- I am trying to make a robot pls someone help me
-- Doing some Java and JavaScript applications
+* I am Felipe Teles and right now I am student of Computer Science at Federal University of Maranhão.
+* Full-stack developer
+* Learning Kali Linux
+* I am trying to make a robot using raspberry pls someone help me
+* Doing some Java and JavaScript applications
+* I like to read old books and play some classic musics in my spare time
 
 
 
