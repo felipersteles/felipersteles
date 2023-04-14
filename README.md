@@ -1,4 +1,4 @@
-## Hello, my name is Felipe Teles.
+# Hello, my name is Felipe Teles.
 
 <!--
 **felipersteles/felipersteles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Teles-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
+### See my react Portfolio: https://felipeteles.netlify.app/</h1>
+
 ## 🌐 Socials:
   <a href="https://www.linkedin.com/in/felipsteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/felipsteles" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
@@ -29,7 +31,6 @@ Here are some ideas to get you started:
 
 ## 💫 About Me:
 
-<h1>See my react Portfolio: https://felipeteles.netlify.app/</h1>
 
 * I am Felipe Teles and right now I am student of Computer Science at Federal University of Maranhão.
 * Full-stack developer
