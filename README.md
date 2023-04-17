@@ -59,6 +59,4 @@ Here are some ideas to get you started:
  </div>
 
 ---
-<div align="center">
-[[](https://visitcount.itsvg.in/api?id=felipersteles&icon=0&color=1)](https://visitcount.itsvg.in)
-  </div>
+[![](https://visitcount.itsvg.in/api?id=felipersteles&icon=0&color=1)](https://visitcount.itsvg.in)
