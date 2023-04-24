@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 </div>
 <div align="end">
 - Omar Khayyam&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  (poema retirado do livro "O homem que calculava")
  </div>
 
 ---
