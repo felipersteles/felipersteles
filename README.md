@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Teles-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-### See my react Portfolio: https://felipeteles.netlify.app/</h1>
+### See my react Portfolio: [Click here!](https://felipersteles.netlify.app/)</h1>
 
 ## 🌐 Socials:
   <a href="https://www.linkedin.com/in/felipsteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
