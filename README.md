@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 * I am Felipe Teles and right now I am student of Computer Science at Federal University of Maranhão.
-* Full-stack developer
+* Full-stack developer searching for jobs pls hire me up
 * Learning Kali Linux
 * I am trying to make a robot using raspberry pls someone help me
 * Doing some Java and JavaScript applications
