@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## 💫 About Me:
 
 
-* I am Felipe Teles and right now I am student of Computer Science at Federal University of Maranhão.
+* I am student of Computer Science at Federal University of Maranhão.
 * Doing some Java and JavaScript applications.
 * I like to read old books and play some classic musics in my spare time.
 
