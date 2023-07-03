@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 * I am student of Computer Science at Federal University of Maranhão.
-* Doing some Java and JavaScript applications.
+* Full-stack developer at Applied Computing Group NCA-UFMA.
 * I like to read old books and play some classic musics in my spare time.
 
 
