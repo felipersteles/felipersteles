@@ -37,9 +37,10 @@ Here are some ideas to get you started:
 ## 💫 About Me:
 
 
-* I am student of Computer Science at Federal University of Maranhão.
-* Full-stack developer at Applied Computing Group NCA-UFMA.
+* I am bacharel in Computer Science by the Federal University of Maranhão.
+* Full-stack developer at Applied Computing Group NCA-UFMA and ASV Digital.
 * I like to read old books and play some classic musics in my spare time.
+* My actual dream is study in Europe.
 
 
 
