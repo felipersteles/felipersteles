@@ -20,7 +20,7 @@ I'm currently pursuing a Master's degree in Artificial Intelligence, which fuels
   
 |  |  |
 :-:|:-:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=felipersteles&layout=donut&langs_count=7&theme=dark)]()  |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipersteles&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=felipersteles&theme=dark&hide_progress=true)]()  |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipersteles&theme=dark&hide_border=false)](https://git.io/streak-stats)
 [![](https://codetrace.com/widget/felipersteles)](https://codetrace.com/users/felipersteles) |  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipersteles&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
