@@ -20,9 +20,10 @@ I'm currently pursuing a Master's degree in Artificial Intelligence, which fuels
   
 |  |  |
 :-:|:-:
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipersteles&layout=compact&langs_count=7&theme=dark" /> |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipersteles&theme=dark&hide_border=false)](https://git.io/streak-stats)
-[![](https://codetrace.com/widget/felipersteles)](https://codetrace.com/users/felipersteles) |  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipersteles&theme=dark&show_icons=true" />
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=felipersteles&layout=compact&langs_count=7&theme=dark)](https://git.io/streak-stats)  |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipersteles&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![](https://codetrace.com/widget/felipersteles)](https://codetrace.com/users/felipersteles) |  [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=felipersteles&theme=dark&show_icons=true)](https://git.io/streak-stats)
 </div>
+
 
 
  <div style="display: inline_block" align="center"><br>
