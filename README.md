@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub page!
 
+I'm currently pursuing a Master's degree in Artificial Intelligence, which fuels my passion for exploring the intersection of technology and human potential. As a full-stack developer, I enjoy diving deep into both front-end and back-end aspects of web development, bringing ideas to life through code. When I'm not immersed in the world of AI or coding, you'll likely find me lost in the world of music, exploring my creative side through piano.
+
+##
 
 <div align="center">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipersteles&theme=dark&hide_border=false" />
@@ -38,17 +41,6 @@ Here are some ideas to get you started:
 ## 🌐 Socials:
   <a href="https://www.linkedin.com/in/felipsteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/felipsteles" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
-  
-
-## 💫 About Me:
-
-
-* I am bacharel in Computer Science by the Federal University of Maranhão.
-* Full-stack developer at Applied Computing Group NCA-UFMA and ASV Digital.
-* I like to read old books and play some classic musics in my spare time.
-* My actual dream is study in Europe.
-
-
 
 ##
 
