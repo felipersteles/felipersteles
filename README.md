@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-<div align="center"><img src="https://pt.artsdot.com/ADC/Art-ImgScreen-3.nsf/O/A-8XYUD2/$FILE/Rene_magritte-the_infinite_recognition.Jpg" height="300" width="100%"/></div>
+<div align="center"><img src="assets/beethoven.png" height="300" width="100%"/></div>
 
 ## 
 
