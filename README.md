@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipersteles&theme=dark&hide_border=false" /><br/>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipersteles&layout=compact&langs_count=7&theme=dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipersteles&layout=compact&langs_count=7&theme=dark" />
 </div>
 
  <div style="display: inline_block" align="center"><br>
