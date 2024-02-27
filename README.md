@@ -53,10 +53,8 @@ Here are some ideas to get you started:
 ##
 
 <div align="center">
-   🐫 🐫 🐫 <h3> Portuguese poem that I read in a math book </h3> 🐫 🐫 🐫 
+   🐫 🐫 🐫 <h3> Portuguese Math Poem</h3> 🐫 🐫 🐫 
 </div>
-
-##
 
 
 <div align="center">
