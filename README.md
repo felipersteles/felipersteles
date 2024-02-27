@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-<div align="center"><img src="assets/beethoven.png" height="300" width="100%"/></div>
+<div align="center"><img src="beethoven.png" height="300" width="100%"/></div>
 
 ## 
 
