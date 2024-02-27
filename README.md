@@ -34,10 +34,11 @@ I'm currently pursuing a Master's degree in Artificial Intelligence, which fuels
   <img align="center" alt="Teles-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-##
-### See my react Portfolio: [Click here!](https://felipersteles.netlify.app/)
+## WebSite
+
+### Made with React: [Click here!](https://felipersteles.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3cb96b51-6e17-44a8-ba60-86ef1e253b8b/deploy-status)](https://app.netlify.com/sites/felipersteles/deploys)
-##
+
 ## 🌐 Socials:
   <a href="https://www.linkedin.com/in/felipsteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/felipsteles" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
