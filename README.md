@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub page!
 
-I'm currently pursuing a Master's degree in Artificial Intelligence, which fuels my passion for exploring the intersection of technology and human potential. As a full-stack developer, I enjoy diving deep into both front-end and back-end aspects of web development, bringing ideas to life through code. When I'm not immersed in the world of AI or coding, you'll likely find me lost in the world of music, exploring my creative side through piano.
-
-##
-
 <div align="center">
   
 |  |  |
@@ -24,6 +20,11 @@ I'm currently pursuing a Master's degree in Artificial Intelligence, which fuels
 [![](https://codetrace.com/widget/felipersteles)](https://codetrace.com/users/felipersteles) |  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipersteles&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+##
+
+I'm currently pursuing a Master's degree in Artificial Intelligence, which fuels my passion for exploring the intersection of technology and human potential. As a full-stack developer, I enjoy diving deep into both front-end and back-end aspects of web development, bringing ideas to life through code. When I'm not immersed in the world of AI or coding, you'll likely find me lost in the world of music, exploring my creative side through piano.
+
+##
 
 
  <div style="display: inline_block" align="center"><br>
