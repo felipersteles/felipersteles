@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 
+<div align="center"><img src="https://pt.artsdot.com/ADC/Art-ImgScreen-3.nsf/O/A-8XYUD2/$FILE/Rene_magritte-the_infinite_recognition.Jpg" width="100%"/></div>
+
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipersteles&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipersteles&theme=dark&hide_border=false" /><br/>
