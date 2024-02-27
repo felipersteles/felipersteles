@@ -21,13 +21,12 @@ I'm currently pursuing a Master's degree in Artificial Intelligence, which fuels
 |  |  |
 :-:|:-:
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipersteles&layout=compact&langs_count=7&theme=dark" /> |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipersteles&theme=dark&hide_border=false)](https://git.io/streak-stats)
-[![](https://codetrace.com/widget/felipersteles)](https://codetrace.com/users/felipersteles) | <code>(!![]+[][(![]+[])[+[]]+(![]+[])[!+[]+!+[]]+(![]+[])[+!+[]]+(!![]+[])[+[]]])[+!+[]+[+[]]]+([![]]+[][[]])[+!+[]+[+[]]]</code> <!-- jsfuck.com -->
+[![](https://codetrace.com/widget/felipersteles)](https://codetrace.com/users/felipersteles) | <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  /> <!-- jsfuck.com -->
 </div>
 
-<div align="center">
-  <img height="150em" src="" />
-  
-</div>
 
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Teles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
