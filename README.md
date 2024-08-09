@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub page!
 
+## My activity
 <div align="center">
   
 |  |  |
@@ -20,12 +21,12 @@ Here are some ideas to get you started:
 [![](https://codetrace.com/widget/felipersteles)](https://codetrace.com/users/felipersteles) |  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipersteles&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+## About me
 ##
 
-I have a bachelor's degree in computer science and work as a backend and devops developer for an automation company. Born and raised in Maranhão, I have experience in several programming languages ​​and tools, however I am always willing to learn something new in search of the best for my team.
+I have a bachelor's degree in computer science and I'm working as a backend developer and devops for an automation company. Born and raised in Maranhão, I have experience in several programming languages ​​and tools, however I am always willing to learn something new in search of the best for my team. In this website I like to share my studies and projects to code anywhere in a easy way. My favorite programming language is Java and now I use Typescript. 
 
 ##
-
 
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Teles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -40,15 +41,14 @@ I have a bachelor's degree in computer science and work as a backend and devops 
   <img align="center" alt="Teles-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-## WebSite
+## Personal WebSite
 
-### Made with React: [Click here!](https://felipersteles.netlify.app/)
+### See my site: [Click here!](https://felipersteles.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3cb96b51-6e17-44a8-ba60-86ef1e253b8b/deploy-status)](https://app.netlify.com/sites/felipersteles/deploys)
 
 ## 🌐 Socials:
   <a href="https://www.linkedin.com/in/felipsteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/felipsteles" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
-
 ##
 
 <div align="center">
