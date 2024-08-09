@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 </div>
 
 ## About me
-##
 
-I have a bachelor's degree in computer science and I'm working as a backend developer and devops for an automation company. Born and raised in Maranhão, I have experience in several programming languages ​​and tools, however I am always willing to learn something new in search of the best for my team. In this website I like to share my studies and projects to code anywhere in a easy way. My favorite programming language is Java and now I use Typescript. 
+I have a bachelor's degree in computer science and I'm working as a backend developer and DevOps engineer for an automation company. Born and raised in Maranhão, I have experience in several programming languages ​​and tools, however I am always willing to learn something new in search of the best for my team. Here I like to share my studies and projects to code anywhere in a easy way. 
+
+My favorite programming language is Java with a strong programming background, and now I use Typescript due it simplicity to deploy. Proficient in PostgreSQL: my expertise includes schema design, normalization, indexing, query optimization, and automated backup strategies. I have led projects resulting in significant improvement in database query performance and implemented CI/CD pipelines to accelerate deployment.
 
 ##
 
