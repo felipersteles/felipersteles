@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="beethoven.png" height="300" width="100%"/></div>
 
-# Welcome to my GitHub page!
+# Hi, I am Felipe
 
 ## My activity
 <div align="center">
