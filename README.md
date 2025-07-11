@@ -53,7 +53,7 @@ My favorite programming language is Java with a strong programming background, a
   <a href="https://twitter.com/felipsteles" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipersteles)](https://github.com/felipersteles/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipersteles&theme=high-contrast)](https://github.com/felipersteles/github-readme-activity-graph)
 
 ##
 
