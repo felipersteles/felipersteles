@@ -12,12 +12,16 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=E3E4F7&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi+there;I+am+Felipe+Teles)](https://git.io/typing-svg)
 
+<div align="left">
+<img src="https://img.shields.io/static/v1?label=VERIFIED&message=felipersteles&color=ededed&style=for-the-badge&logo=GitHub" alt="Perfil Verificado"> 
+</div>
+
 ## My activity
 <div align="center">
   
 |  |  |
 :-:|:-:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=felipersteles&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)  |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipersteles&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=felipersteles&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)  |  <img src="https://github-profile-trophy.vercel.app/?username=felipersteles&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 [![](https://codetrace.com/widget/felipersteles)](https://codetrace.com/users/felipersteles) |  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipersteles&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
