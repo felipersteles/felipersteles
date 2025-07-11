@@ -10,7 +10,9 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="beethoven.png" height="300" width="100%"/></div>
 
-# Hi, I am Felipe
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there;I+am+Felipe+Teles)](https://git.io/typing-svg)
+</div>
 
 ## My activity
 <div align="center">
