@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="beethoven.png" height="300" width="100%"/></div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=8D2EF7&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there;I+am+Felipe+Teles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=E3E4F7&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi+there;I+am+Felipe+Teles)](https://git.io/typing-svg)
 
 ## My activity
 <div align="center">
