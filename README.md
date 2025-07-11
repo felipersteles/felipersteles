@@ -10,9 +10,8 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="beethoven.png" height="300" width="100%"/></div>
 
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there;I+am+Felipe+Teles)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there;I+am+Felipe+Teles)](https://git.io/typing-svg)
+
 
 ## My activity
 <div align="center">
