@@ -47,8 +47,7 @@ My favorite programming language is Java with a strong programming background, a
 </div>
   
 ## 
-## Personal WebSite
-### See my site: [Click here!](https://felipersteles.netlify.app/)
+### See my Personal website: [Click here!](https://felipersteles.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3cb96b51-6e17-44a8-ba60-86ef1e253b8b/deploy-status)](https://app.netlify.com/sites/felipersteles/deploys)
 
 ## 🌐 Socials:
