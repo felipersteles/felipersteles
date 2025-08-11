@@ -11,22 +11,6 @@ Here are some ideas to get you started:
 <div align="left">
 <img src="https://img.shields.io/static/v1?label=VERIFIED&message=felipersteles&color=ededed&style=for-the-badge&logo=GitHub" alt="Perfil Verificado"> 
 </div>
-
-## My activity
-<div align="center">
-  
-|  |  |
-:-:|:-:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=felipersteles&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)  |  <img src="https://github-profile-trophy.vercel.app/?username=felipersteles&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-[![](https://codetrace.com/widget/felipersteles)](https://codetrace.com/users/felipersteles) |  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipersteles&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-## About me
-
-I have a bachelor's degree in computer science and I'm working as a backend developer and DevOps engineer for an automation company. Born and raised in Maranhão, I have experience in several programming languages ​​and tools, however I am always willing to learn something new in search of the best for my team. Here I like to share my studies and projects to code anywhere in a easy way. 
-
-My favorite programming language is Java with a strong programming background, and now I use Typescript due it simplicity to deploy. Proficient in PostgreSQL: my expertise includes schema design, normalization, indexing, query optimization, and automated backup strategies. I have led projects resulting in significant improvement in database query performance and implemented CI/CD pipelines to accelerate deployment.
-
 ##
 
  <div style="display: inline_block" align="center"><br>
