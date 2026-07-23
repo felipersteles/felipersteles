@@ -1,21 +1,177 @@
+# Hi, I'm Felipe Teles 👋
 
+### Senior Backend Engineer | M.Sc. in Computer Science
 
-<!--
-**felipersteles/felipersteles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **scalable distributed systems**, **financial platforms**, and **AI-powered applications** using modern backend technologies and cloud-native architectures.
 
-Here are some ideas to get you started:
--->
+🇧🇷 Brazil  
+🌎 Open to Remote Opportunities
 
-##
+---
 
-<div align="left">
-<img src="https://img.shields.io/static/v1?label=VERIFIED&message=felipersteles&color=ededed&style=for-the-badge&logo=GitHub" alt="Perfil Verificado"> 
-</div>
+# About Me
 
-### See my Personal website: [Click here!](https://felipeteles.com/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3cb96b51-6e17-44a8-ba60-86ef1e253b8b/deploy-status)](https://app.netlify.com/sites/felipersteles/deploys)
+I'm a **Senior Backend Engineer** with over **6 years of experience** designing and developing scalable backend systems, distributed architectures, and cloud-native applications.
 
-### 🌐 Socials:
-  <a href="https://www.linkedin.com/in/felipsteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+Throughout my career, I've worked on fintechs, SaaS platforms, banking integrations, and Artificial Intelligence solutions, helping companies build reliable, high-performance software.
 
- </div>
+I also hold a **Master's Degree in Computer Science** from the Federal University of Maranhão (UFMA), where my research focused on **Deep Learning**, **Computer Vision**, and **Medical Image Analysis**.
+
+---
+
+# Core Expertise
+
+- Distributed Systems
+- Microservices Architecture
+- Event-Driven Architecture
+- Financial Systems
+- REST API Design
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- Cloud Computing
+- CI/CD
+- Observability
+- Artificial Intelligence
+- Computer Vision
+- Machine Learning
+
+---
+
+# Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Backend
+
+- Java (Spring Boot)
+- Golang
+- TypeScript
+- NestJS
+- Node.js
+
+### Databases
+
+- PostgreSQL
+- SQL Server
+- Redis
+- MongoDB
+- Elasticsearch
+
+### Cloud & Infrastructure
+
+- AWS
+- Kubernetes
+- Rancher
+- Docker
+- GitHub Actions
+
+### Messaging
+
+- RabbitMQ
+
+### AI & Machine Learning
+
+- OpenAI
+- LangChain
+- C++
+- RAG
+- LLMs
+- Vector Databases
+- PyTorch
+- TensorFlow
+- OpenCV
+- Deep Learning
+- Computer Vision
+
+---
+
+# Professional Highlights
+
+- 🏦 Designed and developed backend services for fintech and banking platforms.
+- 🚀 Built scalable microservices using Java, NestJS, and Golang.
+- ⚙️ Designed event-driven architectures with RabbitMQ.
+- ☁️ Built cloud-native applications deployed on Kubernetes.
+- 🔐 Implemented secure authentication and authorization using OAuth2 and JWT.
+- 🤖 Developed AI-powered applications using OpenAI, LangChain, and Retrieval-Augmented Generation (RAG).
+- 📈 Built CI/CD pipelines and production observability solutions.
+- 👨‍🏫 Participated in architecture decisions, code reviews, and mentoring.
+
+---
+
+# Areas of Interest
+
+- Distributed Systems
+- High Performance APIs
+- Software Architecture
+- Cloud Computing
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Backend Performance
+- Platform Engineering
+
+---
+
+# Featured Projects
+
+Here are some of the areas represented by my public repositories:
+
+- 🏦 Financial Services
+- ☁️ Cloud-native Microservices
+- 🤖 Artificial Intelligence
+- 🧠 Computer Vision
+- 🌐 SaaS Platforms
+- 🔬 Research Projects
+
+---
+
+# Education
+
+🎓 **Master of Science (M.Sc.) in Computer Science**  
+Federal University of Maranhão (UFMA)
+
+Research Areas:
+
+- Artificial Intelligence
+- Deep Learning
+- Computer Vision
+- Medical Image Analysis
+
+🎓 **Bachelor of Science (B.Sc.) in Computer Science**  
+Federal University of Maranhão (UFMA)
+
+Research Areas:
+
+- Software Development
+- System Design
+- Databases
+- OOP
+
+---
+
+📄 Dissertation
+
+http://tedebc.ufma.br:8080/jspui/handle/tede/6962
+
+🎓 Google Scholar
+
+https://scholar.google.com/citations?user=CpPKPnkAAAAJ&hl=en
+
+---
+
+# Let's Connect
+
+🌐 **Website**
+
+https://felipeteles.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/felipersteles
