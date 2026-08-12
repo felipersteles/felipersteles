@@ -5,7 +5,6 @@
 I build **scalable distributed systems**, **financial platforms**, and **AI-powered applications** using modern backend technologies and cloud-native architectures.
 
 🇧🇷 Brazil  
-🌎 Open to Remote Opportunities
 
 ---
 
