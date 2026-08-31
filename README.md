@@ -32,6 +32,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-felipersteles-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipersteles)
 [![X](https://img.shields.io/badge/X-teles2o-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/teles2o)
 [![Instagram](https://img.shields.io/badge/Instagram-teles2o-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teles2o)
+[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-felipersteles.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://felipersteles.github.io/terminal.html)
 
 <br>
 
