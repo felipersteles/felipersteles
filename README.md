@@ -1,18 +1,5 @@
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait (types in) above the extruded 3d ascii
-     wordmark (wipes in left-to-right, then rocks on its vertical axis).
-     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
-     wordmark: python scripts/make_wordmark_svg.py --mode rock --out wordmark.svg
-     how the wordmark is built: docs/3d-ascii-wordmark.md -->
-
-<h3><code>teles@github ~ $ whoami</code></h3>
-
-<img src="./wordmark.svg" width="700" alt="TELES — 3D ASCII wordmark" />
-
-<br>
-<br>
-
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
