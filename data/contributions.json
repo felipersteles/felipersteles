@@ -1,12 +1,12 @@
 {
   "username": "felipersteles",
-  "generated_at": "2026-10-31T12:38:08Z",
+  "generated_at": "2026-11-01T13:29:36Z",
   "range": {
-    "start": "2025-10-26",
-    "end": "2026-10-31"
+    "start": "2025-11-02",
+    "end": "2026-11-01"
   },
-  "total_contributions": 2608,
-  "active_days": 262,
+  "total_contributions": 2562,
+  "active_days": 256,
   "avg_per_active_day": 10.0,
   "current_streak": {
     "length": 63,
@@ -23,10 +23,6 @@
     "count": 72
   },
   "monthly": [
-    {
-      "month": "2025-10",
-      "total": 71
-    },
     {
       "month": "2025-11",
       "total": 165
@@ -73,38 +69,14 @@
     },
     {
       "month": "2026-10",
-      "total": 413
+      "total": 438
+    },
+    {
+      "month": "2026-11",
+      "total": 0
     }
   ],
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 1
-    },
-    {
-      "date": "2025-10-27",
-      "count": 12
-    },
-    {
-      "date": "2025-10-28",
-      "count": 17
-    },
-    {
-      "date": "2025-10-29",
-      "count": 5
-    },
-    {
-      "date": "2025-10-30",
-      "count": 19
-    },
-    {
-      "date": "2025-10-31",
-      "count": 17
-    },
-    {
-      "date": "2025-11-01",
-      "count": 0
-    },
     {
       "date": "2025-11-02",
       "count": 0
@@ -1555,11 +1527,15 @@
     },
     {
       "date": "2026-10-30",
-      "count": 4
+      "count": 5
     },
     {
       "date": "2026-10-31",
-      "count": 2
+      "count": 26
+    },
+    {
+      "date": "2026-11-01",
+      "count": 0
     }
   ]
 }
